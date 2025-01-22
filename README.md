@@ -1,2 +1,1 @@
-# jenkins-sonar-dock .. hi test..
-;
+# jenkins-sonar-dock ..
